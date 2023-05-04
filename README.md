@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuhaowin
-- 👀 I’m interested in Java、Golang、DDD.
+- 👀 I’m interested in Java、Golang、Domain-Driven Design.
 
 <!---
 yuhaowin/yuhaowin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
